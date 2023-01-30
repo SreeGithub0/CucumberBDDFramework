@@ -8,6 +8,6 @@ Feature: check login functionality
 
     Examples:
       | username                | password      |
-      | sreedevige.84@gmail.com | Tumkur@123    |
+      | sreedevige.84@gmail.com | 1234    |
       | vinay123                | innovapath123 |
       | vastav                  | innovapath    |
